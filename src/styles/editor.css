@@ -1,0 +1,38 @@
+#editor * {
+  margin: 0;
+}
+.ce-toolbar__plus {
+  margin-left: 50px;
+  background: lightgrey;
+}
+
+.ce-toolbar__settings-btn {
+  background: lightgrey;
+}
+
+.dark .ce-toolbar__settings-btn {
+  background-color: white;
+  color: black;
+}
+
+.dark .ce-toolbar__settings-btn:hover {
+  background-color: white;
+  color: black;
+}
+
+.dark .ce-toolbar__plus {
+  background-color: white;
+  color: black;
+}
+.dark .ce-toolbar__plus:hover {
+  background-color: white;
+  color: black;
+}
+
+.dark .ce-popover__item:hover {
+  background-color: black;
+}
+
+.codex-editor__redactor {
+  padding-bottom: 0 !important;
+}
